@@ -15,10 +15,10 @@ If you are very noop at statistics you should start with these series of books a
 [Statistics For Dummies](https://www.amazon.com/Statistics-Dummies-Deborah-J-Rumsey/dp/1119293529/ref=sr_1_5?s=books&ie=UTF8&qid=1488647763&sr=1-5&keywords=statistics)
 
 ### Videos
-[Khan academy youtube playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-[Professor Leonard statistics youtube playlist](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
-[udacity statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt)
-[udacity Descriptive statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)
-[udacity Inferential statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnVUrK_vL3r9tP6kuwAEzgQ)
+* [Khan academy youtube playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+* [Professor Leonard statistics youtube playlist](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
+* [udacity statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt)
+* [udacity Descriptive statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)
+* [udacity Inferential statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnVUrK_vL3r9tP6kuwAEzgQ)
 
 ## Statistics for non-beginners
