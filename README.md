@@ -18,6 +18,8 @@ If you are very noop at statistics you should start with these series of books a
 I consider this book between beginners and non-beginners but it's easy and you can learn statistics with application for engineering
 * [Probability and Statistics for Engineering and the Sciences 8th Edition](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527/)
 
+**[Free Download](https://github.com/HishamElamir/StatisticsReferences/Books)**
+
 ### Videos
 * [Khan academy youtube playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 * [Professor Leonard statistics youtube playlist](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
